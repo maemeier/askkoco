@@ -1,0 +1,42 @@
+body {
+  background-color: #2A262F;
+  color: white;
+  font-family: 'poppins';
+  text-align: center;
+
+}
+
+
+h1{
+  font-size: 84px;
+  margin-bottom: 0px;
+  margin-top: 10px
+}
+
+p{
+  font-size: 18px;
+  margin: 0px;
+  font-weight: normal;
+}
+
+div{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+button{
+  background: white;
+  border: none;
+  height: 40px;
+  width: 247px;
+  font-size: 18px;
+  margin-top: 40px
+}
+
+.koco_img{
+  width: 150px
+}
