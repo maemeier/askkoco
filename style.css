@@ -10,13 +10,15 @@ body {
 h1{
   font-size: 84px;
   margin-bottom: 0px;
-  margin-top: 10px
+  margin-top: 10px;
+  color: #FFDCD3
 }
 
 p{
   font-size: 18px;
   margin: 0px;
   font-weight: normal;
+  max-width: 600px
 }
 
 div{
@@ -39,4 +41,13 @@ button{
 
 .koco_img{
   width: 150px
+}
+
+.caption{
+  font-size: 12px;
+  position: absolute;
+  color: #8E8E8E;
+  width: 150px;
+  left: 500px;
+  top: 400px
 }
